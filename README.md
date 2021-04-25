@@ -5,6 +5,8 @@ Hola, ✋ soy Andrés Luis Logares desarrollador Full-Stack orientado a front-en
 
   Si bien de momento no cuento como muchos proyectos realizados, pero es una meta personal poder ir haciendo que este github sea muchas más interesante para la gente que lo visite y a su vez sea un fiel reflejo de mi trabajo personal 🚧.
   
+  Actualmente estoy trabajando en un E-Commerce con un grupo de Henry que va avanzando muy satisfactoriamente.
+  
    Me puedes encontrar también en estos Lugares:
    
     Facebook 🔗: https://www.facebook.com/ALogares ;
