@@ -24,7 +24,7 @@
   - ![Node](https://img.shields.io/badge/-Node-green)
   - ![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
   - ![Express](https://img.shields.io/badge/-Express-blue)
-  - ![Postgress](https://img.shields.io/badge/-Postgress-green)
+  - ![Postgres](https://img.shields.io/badge/-Postgress-green)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
 
 
@@ -55,6 +55,6 @@
   - ![Node](https://img.shields.io/badge/-Node-green)
   - ![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
   - ![Express](https://img.shields.io/badge/-Express-blue)
-  - ![Postgress](https://img.shields.io/badge/-Postgress-green)
+  - ![Postgres](https://img.shields.io/badge/-Postgress-green)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
 
