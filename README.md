@@ -26,6 +26,7 @@
   - ![Express](https://img.shields.io/badge/-Express-blue)
   - ![Postgres](https://img.shields.io/badge/-Postgress-green)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-green)
 
 
 
@@ -57,4 +58,5 @@
   - ![Express](https://img.shields.io/badge/-Express-blue)
   - ![Postgres](https://img.shields.io/badge/-Postgress-green)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-green)
 
