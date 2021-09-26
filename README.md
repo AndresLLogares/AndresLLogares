@@ -12,7 +12,7 @@
     
   - E-Mail 📧: Andresl940@hotmail.com ;
   
-  - Portfolio :briefcase: : https://andreslogares.netlify.app/ ; 
+  - Portfolio :briefcase: : https://portfolio-andreslogares.vercel.app/ ; 
 
 ## Estas son las tecnologías que manejo por el momento: 
 
@@ -44,7 +44,7 @@
     
 - E-Mail 📧: Andresl940@hotmail.com ;
   
-- Portfolio :briefcase: : https://andreslogares.netlify.app/ ; 
+- Portfolio :briefcase: : https://portfolio-andreslogares.vercel.app/ ; 
 
 ## These are the technologies that I manage at the moment: 
 
