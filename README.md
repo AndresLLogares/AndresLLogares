@@ -27,7 +27,7 @@
   - ![Postgres](https://img.shields.io/badge/-Postgres-green)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
   - ![Next.js](https://img.shields.io/badge/-Next.js-green)
-
+  - ![Solidity](https://img.shields.io/badge/-Solidity-red)
 
 
 ## Hello, ✋ I'm Andrés Luis Logares Fullstack developer.
@@ -59,4 +59,5 @@
   - ![Postgres](https://img.shields.io/badge/-Postgres-green)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
   - ![Next.js](https://img.shields.io/badge/-Next.js-green)
+  - ![Solidity](https://img.shields.io/badge/-Solidity-red)
 
