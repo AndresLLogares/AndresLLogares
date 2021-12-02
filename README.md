@@ -8,7 +8,7 @@
   
   ## Me puedes encontrar también en estos Lugares:
        
-  - Linkedin 🔗 : https://www.linkedin.com/in/andres-luis-logares-522595172/ ;
+  - Linkedin 🔗 : https://www.linkedin.com/in/andres-logares/ ;
     
   - E-Mail 📧: Andresl940@hotmail.com ;
   
@@ -40,7 +40,7 @@
 
   ## You can find me in these Places:
 
-- Linkedin 🔗 : https://www.linkedin.com/in/andres-luis-logares-522595172/ ;
+- Linkedin 🔗 : https://www.linkedin.com/in/andres-logares/ ;
     
 - E-Mail 📧: Andresl940@hotmail.com ;
   
