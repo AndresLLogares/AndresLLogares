@@ -1,6 +1,6 @@
 
 
-# ✋ Hello,  I'm Andrés Luis Logares Fullstack developer.
+#  Hi ✋,  I'm Andrés Luis Logares Fullstack developer.
 
 ## I am currently working on a project for Banco Galicia to update the self-service terminals, previously I have worked freelance for a company based in San Francisco in different projects related to the Crypto world, such as NFT's galleries and landing pages for different projects.
 ## About other technologies I'm taking time to learn more about C++ and .NET, because I've been using it in my current position and I've enjoyed it a lot. Although lately I have not been updating my personal Github much because I have been working on private repositories and giving more importance to language learning, I will try to incorporate more projects.
