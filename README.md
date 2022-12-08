@@ -28,3 +28,4 @@
   - ![Solidity](https://img.shields.io/badge/-Solidity-yellow)
   - ![MaterialUI](https://img.shields.io/badge/-MaterialUI-green)
   - ![RXJS](https://img.shields.io/badge/-RXJS-blue)
+  - ![GraphQL](https://img.shields.io/badge/-GraphQL-red)
