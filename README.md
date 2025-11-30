@@ -2,8 +2,13 @@
 
 #  Hi ✋,  I'm Andrés Luis Logares Fullstack developer.
 
-## I am currently working on a project for Banco Galicia to update the self-service terminals, previously I have worked freelance for a company based in San Francisco in different projects related to the Crypto world, such as NFT's galleries and landing pages for different projects.
-## About other technologies I'm taking time to learn more about Python, because I've been using it in my current position and I've enjoyed it a lot. Although lately I have not been updating my personal Github much because I have been working on private repositories and giving more importance to language learning, I will try to incorporate more projects.
+## I am a programmer with a strong track record in developing efficient and innovative technological solutions, driven by a passion for continuous learning and exploring emerging fields like Artificial Intelligence (AI). My career has evolved from my beginnings as a self-taught full-stack developer focused on freelance and Web3 projects, to becoming a specialized professional within the Financial Technology (FinTech) sector.
+
+## Currently, I leverage my skills within the banking environment, where I have consolidated my experience in the comprehensive management of the software development lifecycle. I operate effectively in creating autonomous projects using robust technologies like .NET, and integrating complex systems via XML, Back-Office tools, and modern front-end frameworks such as React.
+
+## My expertise includes the implementation of crucial security facets vital for financial environments. I possess practical command of DevOps methodologies, including project deployment via tools such as Jenkins.
+
+## With a solid foundation in development and delivery, I am results-oriented, driven to tackle complex challenges and deliver high-impact results that boost operational efficiency and innovation within the banking industry.
  
 ## You can find me in these Places:
 
